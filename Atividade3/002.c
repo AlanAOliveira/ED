@@ -79,6 +79,7 @@ int main(){
                 break;
             }
             case 8:{
+                printf("Fim\n");
                 break;
             }
             default:
